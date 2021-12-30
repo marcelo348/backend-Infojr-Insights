@@ -1,4 +1,4 @@
-<h1>#Infojr-Insights</h1>
+<h1>Infojr-Insights</h1>
 <br>
 <p>
 Atividade de férias do núcleo web da InfoJr /back-end link do front:
